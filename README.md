@@ -34,3 +34,18 @@ Allow users to save or share their modified video feed as an image or video.
 Errors: I initially faced difficulties with directly manipulating the RGB values, which led to unpredictable color results. Switching to HSL for hue manipulation solved the problem and created a more pleasing effect.
 The main challenge was understanding the color models (RGB and HSL) and how to properly adjust the hue. Once I understood the conversion between the two, it was much easier to implement the color shift effect.
 Overall, this project helped me understand how to manipulate pixel data effectively in p5.js and gave me insights into how web-based interactive art can be created with live video.
+
+
+
+**Reference List:**
+
+1. p5.js Reference - 2D Primitives. (n.d.). Retrieved from [https://p5js.org/reference/#2D%20Primitives](https://p5js.org/reference/#2D%20Primitives)
+   
+2. p5.js Discourse Forum. (n.d.). Retrieved from [https://discourse.processing.org/c/p5js/10](https://discourse.processing.org/c/p5js/10)
+   
+3. Reddit Users.
+---
+
+**Declaration:**
+
+I declare that I received help with my coding from my flatmate, who is experienced with programming. Additionally, I conducted several quick Google searches to resolve issues encountered during the development process. These searches helped in understanding how to implement specific features and troubleshoot problems, especially related to p5.js, as well as getting advice from relevant forums and communities.
